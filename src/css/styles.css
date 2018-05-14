@@ -1,0 +1,25 @@
+.user-list {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    color: darkblue;
+    background-color: lightblue;
+}
+
+.user-list .user-list-title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.planet-list {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    color: darkgreen;
+    background-color: lightgreen;
+}
+
+.planet-list .planet-list-title {
+    font-weight: bold;
+    text-decoration: underline;
+}
